@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name.
+I'm a third year Ph.D. student from [School of Mathematics](http://math.hit.edu.cn/main.htm), [Harbin Institute of Technology](http://www.hit.edu.cn). My research interest includes descriptor linear systems, robust pole assignment, parametric eigenstructure assignment and data-driven control.
 
-My research interest includes con.
+You can find my CV here: [Lingyu's Curriculum Vitae](../assets/CV_ZLY.pdf).
 
 
 # 🔥 News
@@ -33,7 +33,7 @@ My research interest includes con.
 
 [Parametric eigenstructure assignment for linear systems via state-derivative feedback](https://www.tandfonline.com/doi/abs/10.1080/00207721.2025.2504051)
 
-Biao Zhang, **Lingyu Zhang**, Zhaoyan Li
+Biao Zhang*, **Lingyu Zhang**, Zhaoyan Li
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -47,8 +47,8 @@ Biao Zhang, **Lingyu Zhang**, Zhaoyan Li
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2023.09 - now*, Ph.D. in Mathematics, School of Mathematics, Harbin Institute of Technology, Harbin, China.
-- *2021.09 - 2023.06*, M.S. in Mathematics, School of Mathematics, Harbin Institute of Technology, Harbin, China.
+- *2023.09 - now*, Ph.D. in Mathematics, School of Mathematics, Harbin Institute of Technology, Harbin, China. **Supervisor:** [Biao Zhang](http://ssc.hitsz.edu.cn/info/1068/1425.htm)
+- *2021.09 - 2023.06*, M.S. in Mathematics, School of Mathematics, Harbin Institute of Technology, Harbin, China. **Supervisor:** [Biao Zhang](http://ssc.hitsz.edu.cn/info/1068/1425.htm)
 - *2017.09 - 2021.06*, B.S. in Information and Computing Science, School of Science, Shenyang University of Technology, China. 
 
 # 💬 Invited Talks
