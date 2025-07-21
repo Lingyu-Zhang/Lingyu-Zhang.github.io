@@ -20,11 +20,7 @@ redirect_from:
 I'm a third year Ph.D. student from [School of Mathematics](http://math.hit.edu.cn/main.htm), [Harbin Institute of Technology](http://www.hit.edu.cn). My research interest includes descriptor linear systems, robust pole assignment, parametric eigenstructure assignment and data-driven control.
 
 You can find my CV here: [Lingyu's Curriculum Vitae](../assets/CV_ZLY.pdf).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+ 
 
 # 📝 Publications 
 - Zhang, B., **Zhang, L. Y.**, and Li, Z. Y. (2025). Parametric eigenstructure assignment for linear
