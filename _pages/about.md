@@ -24,7 +24,7 @@ You can find my CV here: [Lingyu's Curriculum Vitae](../assets/CV_ZLY.pdf).
 
 # 📝 Publications 
 - Zhang, B., **Zhang, L. Y.**, and Li, Z. Y. (2025). Parametric eigenstructure assignment for linear
-systems via state-derivative feedback. *International Journal of Systems Science*, 1-29. ([paper])(https://www.tandfonline.com/doi/full/10.1080/00207721.2025.2504051)
+systems via state-derivative feedback. *International Journal of Systems Science*, 1-29. [doi](https://www.tandfonline.com/doi/full/10.1080/00207721.2025.2504051)
 
 # 🎖 Honors and Awards
 - *2025.05*  State Scholarship Funding,  China Scholarship Council (CSC)
