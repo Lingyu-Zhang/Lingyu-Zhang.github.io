@@ -33,8 +33,8 @@ systems via state-derivative feedback. *International Journal of Systems Science
 - *2020.12*  National Scholarship, Ministry of Education of the People’s Republic of China
 
 # 📖 Educations
-- *2023.09 - now*, Ph.D. in Mathematics, School of Mathematics, Harbin Institute of Technology, Harbin, China. **Supervisor:** [Biao Zhang](http://ssc.hitsz.edu.cn/info/1068/1425.htm)
-- *2021.09 - 2023.06*, M.S. in Mathematics, School of Mathematics, Harbin Institute of Technology, Harbin, China. **Supervisor:** [Biao Zhang](http://ssc.hitsz.edu.cn/info/1068/1425.htm)
+- *2023.09 - now*, Ph.D. in Mathematics, School of Mathematics, Harbin Institute of Technology, Harbin, China. **Supervisor:** [Biao Zhang](https://www.researchgate.net/profile/Biao-Zhang-29)
+- *2021.09 - 2023.06*, M.S. in Mathematics, School of Mathematics, Harbin Institute of Technology, Harbin, China. **Supervisor:** [Biao Zhang](https://www.researchgate.net/profile/Biao-Zhang-29)
 - *2017.09 - 2021.06*, B.S. in Information and Computing Science, School of Science, Shenyang University of Technology, China. 
 
 # 🌍 Visiting
