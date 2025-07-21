@@ -31,8 +31,10 @@ You can find my CV here: [Lingyu's Curriculum Vitae](../assets/CV_ZLY.pdf).
 systems via state-derivative feedback. *International Journal of Systems Science*, 1-29. ([paper])(https://www.tandfonline.com/doi/full/10.1080/00207721.2025.2504051)
 
 # 🎖 Honors and Awards
-- *2025.05* State Scholarship Funding, China Scholarship Council (CSC)
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*  State Scholarship Funding,  China Scholarship Council (CSC)
+- *2023.06*  Outstanding Master’s Thesis,  Harbin Institute of Technology
+- *2021.06*  Outstanding Graduate Students, Shenyang University of Technology
+- *2020.12*  National Scholarship, Ministry of Education of the People’s Republic of China
 
 # 📖 Educations
 - *2023.09 - now*, Ph.D. in Mathematics, School of Mathematics, Harbin Institute of Technology, Harbin, China. **Supervisor:** [Biao Zhang](http://ssc.hitsz.edu.cn/info/1068/1425.htm)
