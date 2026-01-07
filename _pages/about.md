@@ -38,4 +38,4 @@ systems via state-derivative feedback. *International Journal of Systems Science
 - *2017.09 - 2021.06*, B.S. in Information and Computing Science, School of Science, Shenyang University of Technology, China. 
 
 # 🌍 Visiting
-- *2026.03 - 2027.03*, Dept. of Mathematical Engineering & ICTEAM Institute, University of Louvain, Belgium. 
+- *2026.03 - 2027.03*, . 
